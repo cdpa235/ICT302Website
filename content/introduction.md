@@ -9,3 +9,7 @@ Hi, I am a senior ICT student at UK and really enjoy playing video games. I boug
 
 ![my switch](https://goofy-einstein-5e9e8a.netlify.app/IntroPhoto.jpg)
 
+My favorite video games of all time are:
+1. Call of Duty World at War
+2. Halo 3
+3. Gears of War

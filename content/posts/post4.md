@@ -3,7 +3,7 @@ title: "Learning Report Module 4"
 date: 2020-09-13T00:00:00-04:00
 draft: false
 ---
-
+# Learning Report
 I can identify and define key concepts in web content management.
 This is the same as last time. The concept that I keep referring back to is style. Keeping the code clean and formatted well makes it easier to read not only for yourself but any others who read your code.
 

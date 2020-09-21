@@ -26,3 +26,6 @@ through weekly posts and other design methods.
 ## I can find and use self learning
 Continuing to utilize w3schools will allow me to keep up to date with my knowledge and what 
 I am doing within the class.
+
+
+

@@ -23,7 +23,7 @@
 .pagination li.active a:link,
 .pagination li.active a:active,
 .pagination li.active a:visited {
-  background-color: #ddd;
+  background-color: #dd;
 }
 
 #TableOfContents ul li {

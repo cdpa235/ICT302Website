@@ -6,7 +6,7 @@
 .pagination li {
   display: inline-block;
   margin-right: .375rem;
-  font-size: .875rem;
+  font-size: .275rem;
   margin-bottom: 2.5em;
 }
 .pagination li a {

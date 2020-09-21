@@ -34,9 +34,12 @@ HUGO_VERSION = "0.74.3"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
+
+
+
 [params]
 [[menu.main]]
 name = "Introduction"
 weight = 1
 url = "/introduction/"
-
+background_color_class = "bg-blue"

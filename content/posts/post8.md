@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## Key Concepts
-myy overall most important concept continues to be organization. I have been writing code
+My overall most important concept continues to be organization. I have been writing code
 for a couple years now and it has always been a habit of mine to be organized. It makes life tremendously easier when you are trying to locate something.
 
 ## Describing content management systems

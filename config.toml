@@ -42,4 +42,9 @@ HUGO_ENABLEGITINFO = "true"
 name = "Resume"
 weight = 1
 url = "/resume/"
+[params]
+[[menu.main]]
+name = "My Work"
+weight = 1
+url = "/mywork/"
 

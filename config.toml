@@ -1,6 +1,6 @@
 baseURL = "https://goofy-einstein-5e9e8a.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Test Site For Hosting Resume/CV"
 theme = "ananke"
 
 [build]

@@ -40,7 +40,7 @@ HUGO_ENABLEGITINFO = "true"
 [[menu.main]]
 name = "Home"
 weight = 1
-url = "/resume/"
+url = "/home/"
 [[menu.main]]
 name = "My Skills"
 weight = 1

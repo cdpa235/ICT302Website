@@ -36,7 +36,6 @@ HUGO_ENABLEGITINFO = "true"
 
 
 
-
 [params]
 [[menu.main]]
 name = "Home"

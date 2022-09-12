@@ -1,6 +1,6 @@
 baseURL = "https://goofy-einstein-5e9e8a.netlify.app/"
 languageCode = "en-us"
-title = "Test Site For Hosting Resume/CV"
+title = "ICT 661 Website"
 theme = "ananke"
 
 [build]
@@ -39,11 +39,11 @@ HUGO_ENABLEGITINFO = "true"
 
 [params]
 [[menu.main]]
-name = "Resume"
+name = "Home"
 weight = 1
 url = "/resume/"
 [[menu.main]]
-name = "My Work"
+name = "My Skills"
 weight = 1
 url = "/mywork/"
 

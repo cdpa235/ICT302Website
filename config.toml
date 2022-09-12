@@ -1,6 +1,6 @@
 baseURL = "https://goofy-einstein-5e9e8a.netlify.app/"
 languageCode = "en-us"
-title = "ICT 661 Website"
+title = "ICT 690 Website"
 theme = "ananke"
 
 [build]

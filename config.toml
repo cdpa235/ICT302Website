@@ -38,6 +38,7 @@ HUGO_ENABLEGITINFO = "true"
 
 [params]
 [[menu.main]]
+color = "darksalmon"
 name = "Home"
 weight = 1
 url = "/home/"

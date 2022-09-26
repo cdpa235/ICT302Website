@@ -37,7 +37,6 @@ HUGO_ENABLEGITINFO = "true"
 
 
 [params]
-color = "darksalmon"
 [[menu.main]]
 name = "Home"
 weight = 1

@@ -1,4 +1,4 @@
-baseURL = "https://cpaboutme.netlify.app/home/"
+baseURL = "https://cpaboutme.netlify.app"
 languageCode = "en-us"
 title = "ICT 690 Website"
 theme = "ananke"

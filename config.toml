@@ -38,7 +38,7 @@ HUGO_ENABLEGITINFO = "true"
 
 
 [params]
-background_color_class = "bg-black"
+
 [[menu.main]]
 name = "Home"
 weight = 1

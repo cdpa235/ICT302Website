@@ -47,6 +47,5 @@ name = "My Skills"
 weight = 1
 url = "/myskills/"
 
-[params]
-background_color_class = "bg-blue"
+
 

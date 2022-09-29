@@ -1,6 +1,6 @@
 baseURL = "https://cpaboutme.netlify.app"
 languageCode = "en-us"
-title = "ICT 690 Website"
+title = "My Site"
 theme = "ananke"
 
 [build]
@@ -46,7 +46,7 @@ url = "/home/"
 name = "My Skills"
 weight = 1
 url = "/myskills/"
-background_color_class = "bg-blue"
+
 
 
 

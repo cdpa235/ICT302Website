@@ -35,7 +35,8 @@ HUGO_VERSION = "0.74.3"
 HUGO_ENABLEGITINFO = "true"
 
 
-
+[params]
+      custom_css = ["content/custom.css"]
 
 
 [params]

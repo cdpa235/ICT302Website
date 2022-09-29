@@ -36,7 +36,7 @@ HUGO_ENABLEGITINFO = "true"
 
 
 [params]
-      custom_css = ["content/custom.css"]
+      custom_css = ["custom.css"]
 
 
 [params]

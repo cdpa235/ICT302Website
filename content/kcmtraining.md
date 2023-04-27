@@ -10,7 +10,7 @@ Over the course of my internship, projects and more became frequent. However, my
 For GRC, the application that I used daily was KCM. KCM is published by KnowBe4 and is a compliance management tool that utilizes a web-based database for organizations to create, monitor, and modify different controls (plans to maintain or establish compliance). Before utilizing this software, however, a process is used to determine the best course of action in who to involve and when.
 
 
-![image](https://cpaboutme.netlify.app/ICT696-1.png)&nbsp;&nbsp;&nbsp;&nbsp
+![image](https://cpaboutme.netlify.app/ICT696-1.png)
 
 This process map details a three-fold process for creating new controls within KCM. This process map was developed by me utilizing the information that I gained during my internship on the separate processes, meetings, and more that happened well before even entering the KCM software.
 

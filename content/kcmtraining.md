@@ -38,3 +38,5 @@ However, to make a task, you can do so by clicking the create task button from t
 From here, you can populate the information that is seen within the previous image on the task page showing who is assigned the task, their manager, as well as information about when the task is due and its description. The create task page can be useful for controls that are updated or need to be revised to meet new requirements or fit into the implementation of new services or technologies. 
 
 
+Those are the basics for creating, monitoring, and managing different controls and tasks for compliance within the GRC pillars. However, KCM as a tool has so much more to offer as a GRC tool through its risk management strength and ability to manage different vendors through vendor scores that help determine if working with a third party is a safe endeavor. While KCM is a fantastic tool in and out, there is no one size fits all GRC tool so implementing it into your organization’s workflow in collaboration with other tools such as Splunk & ServiceNow creates a GRC ecosystem that benefits productivity and effectiveness of any GRC implementation. 
+

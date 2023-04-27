@@ -44,7 +44,7 @@ name = "Home"
 weight = 1
 url = "/home/"
 [[menu.main]]
-name = "My Skills"
+name = "KCM Training"
 weight = 1
 url = "/myskills/"
 

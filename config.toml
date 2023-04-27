@@ -46,7 +46,7 @@ url = "/home/"
 [[menu.main]]
 name = "KCM Training"
 weight = 1
-url = "/myskills/"
+url = "/kcmtraining/"
 
 
 
